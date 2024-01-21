@@ -1,2 +1,2 @@
-# Fake News Detection with Machine Learning
+# Machine Learning Projects
 ## Introduction
